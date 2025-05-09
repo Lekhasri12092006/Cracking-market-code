@@ -2,4 +2,11 @@ numpy
 pandas 
 matplotlib
 scikit-leatn
-streamlit
+seaborn
+plotly
+yfinance
+statsmodels
+pandas_datqreader
+tensorflow
+prophet
+
